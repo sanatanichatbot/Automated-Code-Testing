@@ -33,6 +33,3 @@ jobs:
         with:
           name: Test Results
           path: path/to/your/test-results
-
-
-print('hwllo')
